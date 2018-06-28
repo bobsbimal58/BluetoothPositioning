@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconManual2</string>
+    <string name="rssi">RSSI</string>
+    <string name="id">ID</string>
+</resources>
